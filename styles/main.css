@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  padding: 20px;
+  max-width: 1440px;
+}
+
+h1.title{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.shior{
+    font-size: 1.5rem;
+    text-align: center;
+}
